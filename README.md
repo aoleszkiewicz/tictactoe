@@ -1,8 +1,11 @@
-# OOP-TicTacToe Project
-
 ## Cel projektu
 
 Implementacja gry w kółko i krzyżyk z wykorzystaniem JavaFX oraz bazy danych do przechowywania historii rozgrywek.
+
+## Uruchamianie
+```bash
+mvn clean javafx:run
+```
 
 ## 1 Struktura projektu
 
@@ -655,6 +658,7 @@ Implementacja gry w kółko i krzyżyk z wykorzystaniem JavaFX oraz bazy danych 
     }
     
     ```
+
     
 
 # 3. Wnioski
